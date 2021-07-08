@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/light-reading-cloud.iml" filepath="$PROJECT_DIR$/light-reading-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reading-cloud-account/reading-cloud-account.iml" filepath="$PROJECT_DIR$/reading-cloud-account/reading-cloud-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reading-cloud-feign-client/reading-cloud-account-feign-client/reading-cloud-account-feign-client.iml" filepath="$PROJECT_DIR$/reading-cloud-feign-client/reading-cloud-account-feign-client/reading-cloud-account-feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reading-cloud-book/reading-cloud-book.iml" filepath="$PROJECT_DIR$/reading-cloud-book/reading-cloud-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reading-cloud-feign-client/reading-cloud-book-feign-client/reading-cloud-book-feign-client.iml" filepath="$PROJECT_DIR$/reading-cloud-feign-client/reading-cloud-book-feign-client/reading-cloud-book-feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reading-cloud-common/reading-cloud-common.iml" filepath="$PROJECT_DIR$/reading-cloud-common/reading-cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reading-cloud-feign-client/reading-cloud-feign-client.iml" filepath="$PROJECT_DIR$/reading-cloud-feign-client/reading-cloud-feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reading-cloud-gateway/reading-cloud-gateway.iml" filepath="$PROJECT_DIR$/reading-cloud-gateway/reading-cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reading-cloud-homepage/reading-cloud-homepage.iml" filepath="$PROJECT_DIR$/reading-cloud-homepage/reading-cloud-homepage.iml" />
+    </modules>
+  </component>
+</project>
